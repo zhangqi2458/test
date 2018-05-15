@@ -20,7 +20,7 @@
       </keep-alive>
     </div>
     <div class="app-foot">
-      <p>2018 2018</p>
+      <p>2018 2018 2018</p>
     </div>
 
   </div>
